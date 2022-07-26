@@ -1,0 +1,15 @@
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net6.0/MyFirstConsoleApp
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net6.0/MyFirstConsoleApp.deps.json
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net6.0/MyFirstConsoleApp.runtimeconfig.json
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net6.0/MyFirstConsoleApp.dll
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net6.0/MyFirstConsoleApp.pdb
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net6.0/MyFirstConsoleApp.csproj.AssemblyReference.cache
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net6.0/MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net6.0/MyFirstConsoleApp.AssemblyInfoInputs.cache
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net6.0/MyFirstConsoleApp.AssemblyInfo.cs
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net6.0/MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net6.0/MyFirstConsoleApp.dll
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net6.0/refint/MyFirstConsoleApp.dll
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net6.0/MyFirstConsoleApp.pdb
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net6.0/MyFirstConsoleApp.genruntimeconfig.cache
+/Users/annamariamountaki/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net6.0/ref/MyFirstConsoleApp.dll
