@@ -7,9 +7,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MyFirstConsoleApp" expanded="True">
-            <Node name="MyFirstConsoleApp" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="MyFirstConsoleApp" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -23,6 +21,6 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.MyFirstConsoleApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
